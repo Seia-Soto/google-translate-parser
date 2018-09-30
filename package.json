@@ -1,0 +1,15 @@
+{
+  "name": "google-translate-parser",
+  "version": "0.0.1",
+  "description": "Gether translate result from Google Translate by parsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Seia-Soto",
+  "license": "Artistic-2.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
